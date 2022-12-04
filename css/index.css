@@ -90,20 +90,6 @@ main {
     display: none;
   }
 
-  .right-arrrow {
-    background-image: url(/assets/black-arrow-next.png);
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-
-  .left-arrrow {
-    background-image: url(/assets/right-arrow.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 50px;
-  }
-
-
   @media (max-width: 1200px) {
     .carousel-container {
       width: 900px;
