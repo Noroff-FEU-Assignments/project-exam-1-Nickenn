@@ -104,6 +104,34 @@ main {
   }
 
 
+  @media (max-width: 1200px) {
+    .carousel-container {
+      width: 900px;
+      height: 50%;
+    }
+  }
+
+  @media (max-width: 1000px) {
+    .carousel-container {
+      width: 700px;
+      height: 50%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .carousel-container {
+      width: 500px;
+      height: 50%;
+    }
+
+    .card-container h2 {
+      font-size: 18px;
+    }
+
+    .post-date {
+      font-size: 10px;
+    }
+  }
 
 
  
