@@ -1,12 +1,12 @@
 # Project Exam 1
 
-![image](https://user-images.githubusercontent.com/100228811/205712767-3f7bcd44-8499-4558-80a2-66426d255fd2.jpg)
+![image] (https://user-images.githubusercontent.com/100228811/205772278-e0e13ff5-a154-40de-8670-71c87ba7ae1a.jpg)
 
 
 Museum page for a community science museum 
 
 ## Description
-In this project created a site for a community science museum with different departments. It has a technology, astronomi and antomi page. Aswell as an about and contact page. 
+In this project created a blogsite called BOARDBLOG. This is a site about snowboarding with several blogposts that are called from a wordpress REST API. The site has JavaScript elements including a carousel and contactform validation. 
 
 You can add some bullet points if you'd like to:
 
