@@ -6,7 +6,7 @@
 Snowboading blog site
 
 ## Description
-In this project created a blogsite called BOARDBLOG. This is a site about snowboarding with several blogposts that are called from a wordpress REST API. The site has JavaScript elements including a carousel and contactform validation. 
+In this project I created a blogsite called BOARDBLOG. This is a site about snowboarding with several blogposts that are called from a wordpress REST API. The site has JavaScript elements including a carousel and contactform validation. 
 
 You can add some bullet points if you'd like to:
 
