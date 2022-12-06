@@ -1,6 +1,6 @@
 # Project Exam 1
 
-![image] (https://user-images.githubusercontent.com/100228811/205772278-e0e13ff5-a154-40de-8670-71c87ba7ae1a.jpg)
+![image](https://user-images.githubusercontent.com/100228811/205772278-e0e13ff5-a154-40de-8670-71c87ba7ae1a.jpg)
 
 
 Museum page for a community science museum 
